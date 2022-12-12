@@ -8,6 +8,7 @@ body, html {
 
 img {
   width: 100%;
+  object-fit: cover;
 }
 
 header { /*Used this website to figure out the header https://codetheweb.blog/steps-to-creating-a-website/*/
