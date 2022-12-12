@@ -54,6 +54,10 @@ ul {
 list-style-position: inside;
 }
 
+li {
+  margin: 1px 0;
+}
+
 #wrapper { /*Used this website to figure out the wrapper https://medium.com/@ianjsikes/build-a-personal-website-with-html-and-css-part-2-a12ca00f5c1b*/
   display: flex;
   flex-direction: row;
