@@ -60,7 +60,7 @@ list-style-position: inside;
   align-items: center;
   margin-top:100px;
   max-width: 50%;
-  height: 50%;
+  height: 500px;
   background-color:rgba(255, 255, 255, 0.7);
   box-shadow: rgba(0,0,0, 0.1) 0 10px 10px;
   border-radius:100px;
@@ -80,10 +80,6 @@ list-style-position: inside;
   justify-content: center;
   width: 100vw; /*Used W3 schools for information on vw and vh */
   height: 100vh; 
-}
-
-#about {
-  font-size: 18px;
 }
 
 .avatar {
