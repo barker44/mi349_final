@@ -46,6 +46,10 @@ a:hover {
 text-decoration: underline;
 }
 
+a:active{
+  color:white;
+}
+
 ul {
 list-style-position: inside;
 }
@@ -56,7 +60,7 @@ list-style-position: inside;
   align-items: center;
   margin-top:100px;
   max-width: 50%;
-  height: 80%;
+  height: 600px;
   background-color:rgba(255, 255, 255, 0.7);
   box-shadow: rgba(0,0,0, 0.1) 0 10px 10px;
   border-radius:100px;
