@@ -54,7 +54,7 @@ list-style-position: inside;
   display: flex;
   flex-direction: row;
   align-items: center;
-  margin-top:50px;
+  margin-top:100px;
   max-width: 50%;
   height: 80%;
   background-color:rgba(255, 255, 255, 0.7);
