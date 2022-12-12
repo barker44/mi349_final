@@ -82,6 +82,10 @@ list-style-position: inside;
   height: 100vh; 
 }
 
+#about {
+  font-size: 18px;
+}
+
 .avatar {
 margin-left: auto;
 margin-right: auto;
