@@ -3,9 +3,12 @@ body {
   align-items: center;
   justify-content: center;
   font-family:Arial, Helvetica, sans-serif;
-  background-image:"background_image_unsplash.jpg"; /* Background image from unsplash*/
+  background-image:url("background_image_unsplash.jpg"); /* Background image from unsplash*/
 }
 
+img {
+  width: 100%;
+}
 
 header { /*Used this website to figure out the header https://codetheweb.blog/steps-to-creating-a-website/*/
   display: flex;
