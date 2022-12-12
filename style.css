@@ -8,7 +8,6 @@ body, html {
 
 img {
   width: 100%;
-  object-fit: cover;
 }
 
 header { /*Used this website to figure out the header https://codetheweb.blog/steps-to-creating-a-website/*/
@@ -132,7 +131,7 @@ h3 {
   #wrapper{
   display:flex;
   flex-direction:column;
-    font-size: 12px;
+    font-size: 20px;
       max-width: 100%;
 
   }
@@ -141,7 +140,7 @@ h3 {
     height:auto;
   }
   .contacts li{
-  width: 15px;
+  width: 30px;
   display: inline-block;
 }
 }
